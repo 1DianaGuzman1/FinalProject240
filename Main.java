@@ -5,13 +5,15 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Main {
-    class ButtonListener implements ActionListener {
-        @Override
-        public void actionPerformed(ActionEvent e) {
-            JOptionPane.showMessageDialog(null, "You pushed the button!!");
-        }
+class ButtonListener implements ActionListener {
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        JOptionPane.showMessageDialog(null, "You pushed the button!!");
     }
+}
+
+public class Main {
+
 
     public static void main(String[] args)throws FileNotFoundException, Exception  {
         //Black Panel

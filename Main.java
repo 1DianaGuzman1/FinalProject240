@@ -7,26 +7,34 @@ import java.awt.*;
 public class Main {
 
     public static void main(String[] args)throws FileNotFoundException, Exception  {
+        //Black Panel
         JPanel auth = new JPanel();
         auth.setBackground(Color.black);
         auth.setBounds(0,0,240,240);
 
+        //Blue Panel
         JPanel trivia = new JPanel();
         trivia.setBackground(Color.blue);
         trivia.setBounds(240,0,240,240);
 
+        //Yellow Panel
         JPanel random = new JPanel();
         random.setBackground(Color.yellow);
         random.setBounds(0,240,480,240);
 
+        //JFrame
         JFrame frame = new JFrame();
 
+
         frame.setLayout(null);
+        //Title
         frame.setTitle("Haiku GUI app 9000");
+        //Exit program when  GUI closed
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
         frame.setSize(480, 480);
 
+        //Button 1
         JButton button = new JButton("Push Me!");
         frame.add(auth);
         auth.add(button);

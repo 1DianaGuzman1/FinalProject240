@@ -36,8 +36,8 @@ public class Main {
 
         //Button 1
         JButton button1 = new JButton("Trivia mode");
-        frame.add(auth);
-        auth.add(button1);
+        frame.add(trivia);
+        trivia.add(button1);
 
         //Button 2
         JButton button2 = new JButton("Authenticator");
@@ -46,10 +46,10 @@ public class Main {
 
         //Button 3
         JButton button3 = new JButton("Exit");
-        frame.add(auth);
-        auth.add(button3);
+        frame.add(random);
+        random.add(button3);
 
-        //frame.add(trivia);
+
         //frame.add(random);
 
 

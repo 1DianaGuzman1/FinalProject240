@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c9381a6-b792-40db-84cb-f8e8863b28b3" name="Changes" comment="removed &quot;.idea&quot; whatever that is." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2841SXagc8uhjq1DoaeGwqVeLAR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jetbrains.Main" />
+      <module name="FinalProject240" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jetbrains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c9381a6-b792-40db-84cb-f8e8863b28b3" name="Changes" comment="" />
+      <created>1650461044617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650461044617</updated>
+    </task>
+    <task id="LOCAL-00001" summary="haiku directory">
+      <created>1650464063292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650464063292</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixes">
+      <created>1650464371258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650464371258</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixes">
+      <created>1650465648802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650465648803</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixes">
+      <created>1650465732199</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650465732199</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixes">
+      <created>1650466105443</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650466105443</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Diana's Commit">
+      <created>1650466171669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650466171669</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Diana's Commit">
+      <created>1650466708486</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650466708486</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Diana's Commit">
+      <created>1650466795326</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650466795326</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added words directory">
+      <created>1650466959503</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650466959503</updated>
+    </task>
+    <task id="LOCAL-00010" summary="removed &quot;out&quot; whatever that is.">
+      <created>1650467524981</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1650467524982</updated>
+    </task>
+    <task id="LOCAL-00011" summary="removed &quot;.idea&quot; whatever that is.">
+      <created>1650467739635</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1650467739635</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="haiku directory" />
+    <MESSAGE value="fixes" />
+    <MESSAGE value="Diana's Commit" />
+    <MESSAGE value="added words directory" />
+    <MESSAGE value="removed &quot;out&quot; whatever that is." />
+    <MESSAGE value="removed &quot;.idea&quot; whatever that is." />
+    <option name="LAST_COMMIT_MESSAGE" value="removed &quot;.idea&quot; whatever that is." />
+  </component>
+</project>

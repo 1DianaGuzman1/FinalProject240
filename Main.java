@@ -19,9 +19,9 @@ public class Main {
         trivia.setBounds(240,0,240,240);
 
         //Yellow Panel
-        JPanel random = new JPanel();
-        random.setBackground(Color.yellow);
-        random.setBounds(0,240,480,240);
+        JPanel exit = new JPanel();
+        exit.setBackground(Color.yellow);
+        exit.setBounds(0,240,480,240);
 
         //JFrame
         JFrame frame = new JFrame();
@@ -35,20 +35,20 @@ public class Main {
         frame.setResizable(false);
         frame.setSize(480, 480);
 
-        //Button 1
+        //Button 1 Trivia
         JButton button1 = new JButton("Trivia mode");
         frame.add(trivia);
         trivia.add(button1);
 
-        //Button 2
+        //Button 2 Authenticator
         JButton button2 = new JButton("Authenticator");
         frame.add(auth);
         auth.add(button2);
 
-        //Button 3
+        //Button 3 Exit
         JButton button3 = new JButton("Exit");
-        frame.add(random);
-        random.add(button3);
+        frame.add(exit);
+        exit.add(button3);
 
 
         //frame.add(random);

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c9381a6-b792-40db-84cb-f8e8863b28b3" name="Changes" comment="added more buttons">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2c9381a6-b792-40db-84cb-f8e8863b28b3" name="Changes" comment="Diana's Commit">
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650465732199</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixes">
+      <created>1650466105443</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650466105443</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Diana's Commit">
+      <created>1650466171669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650466171669</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,12 +110,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="haiku directory" />
     <MESSAGE value="fixes" />
-    <MESSAGE value="added more buttons" />
-    <option name="LAST_COMMIT_MESSAGE" value="added more buttons" />
+    <MESSAGE value="Diana's Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diana's Commit" />
   </component>
 </project>

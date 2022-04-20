@@ -48,8 +48,7 @@ public class Main {
         JButton button1 = new JButton("Trivia mode");
         frame.add(trivia);
         trivia.add(button1);
-        button1.addActionListener(new ButtonListener());
-        frame.getContentPane().add(button1);
+
 
         //Button 2 Authenticator
         JButton button2 = new JButton("Authenticator");

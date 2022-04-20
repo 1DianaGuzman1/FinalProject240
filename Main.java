@@ -6,6 +6,12 @@ import java.awt.*;
 import java.awt.event.*;
 
 public class Main {
+    class ButtonListener implements ActionListener {
+        @Override
+        public void actionPerformed(ActionEvent e) {
+            JOptionPane.showMessageDialog(null, "You pushed the button!!");
+        }
+    }
 
     public static void main(String[] args)throws FileNotFoundException, Exception  {
         //Black Panel
@@ -30,15 +36,18 @@ public class Main {
         frame.setLayout(null);
         //Title
         frame.setTitle("Haiku GUI App 9000");
-        //Exit program when  GUI closed
+        //Does nothing when window is closed
         frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
         frame.setResizable(false);
         frame.setSize(480, 480);
+
 
         //Button 1 Trivia
         JButton button1 = new JButton("Trivia mode");
         frame.add(trivia);
         trivia.add(button1);
+        button1.addActionListener(new ButtonListener());
+        frame.getContentPane().add(button1);
 
         //Button 2 Authenticator
         JButton button2 = new JButton("Authenticator");

@@ -26,10 +26,15 @@ public class Main {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
         frame.setSize(480, 480);
-        frame.setVisible(true);
+
+        JButton button = new JButton("Push Me!");
         frame.add(auth);
+        auth.add(button);
         frame.add(trivia);
         frame.add(random);
+
+
+        frame.setVisible(true);
 
         //Variables
         int option;

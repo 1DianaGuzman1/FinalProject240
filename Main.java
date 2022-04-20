@@ -3,6 +3,7 @@ import java.util.*;
 import java.io.*;
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.*;
 
 public class Main {
 
@@ -28,9 +29,9 @@ public class Main {
 
         frame.setLayout(null);
         //Title
-        frame.setTitle("Haiku GUI app 9000");
+        frame.setTitle("Haiku GUI App 9000");
         //Exit program when  GUI closed
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
         frame.setResizable(false);
         frame.setSize(480, 480);
 

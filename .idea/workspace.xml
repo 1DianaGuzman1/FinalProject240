@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c9381a6-b792-40db-84cb-f8e8863b28b3" name="Changes" comment="removed &quot;.idea&quot; whatever that is." />
+    <list default="true" id="2c9381a6-b792-40db-84cb-f8e8863b28b3" name="Changes" comment="added &quot;.idea&quot; whatever that is." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650467739635</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added &quot;.idea&quot; whatever that is.">
+      <created>1650467865057</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1650467865057</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added &quot;.idea&quot; whatever that is.">
+      <created>1650468036586</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1650468036586</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +166,7 @@
     <MESSAGE value="added words directory" />
     <MESSAGE value="removed &quot;out&quot; whatever that is." />
     <MESSAGE value="removed &quot;.idea&quot; whatever that is." />
-    <option name="LAST_COMMIT_MESSAGE" value="removed &quot;.idea&quot; whatever that is." />
+    <MESSAGE value="added &quot;.idea&quot; whatever that is." />
+    <option name="LAST_COMMIT_MESSAGE" value="added &quot;.idea&quot; whatever that is." />
   </component>
 </project>

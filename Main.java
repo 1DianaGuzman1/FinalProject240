@@ -6,7 +6,7 @@ import java.awt.*;
 
 public class Main {
 
-    public static void main(String[] args)throws FileNotFoundException throws Exception  {
+    public static void main(String[] args)throws FileNotFoundException, Exception  {
         JPanel auth = new JPanel();
         auth.setBackground(Color.black);
         auth.setBounds(0,0,240,240);
@@ -41,7 +41,7 @@ public class Main {
         //Welcome Message
         System.out.println("Pick an option:");
         System.out.println("1. Trivia mode");
-        System.out.println("2.Authenticator")
+        System.out.println("2.Authenticator");
         System.out.println("3. Exit");
         System.out.print(": ");
         option = in.nextInt();
@@ -54,10 +54,10 @@ public class Main {
                 TriviaMode();
                 //2
             }else if (option==2) {
-                String line1 = "this is my haiku";
-                String line2 = "seven syllable word oh";
-                String line3 = "smooth brain coding hard";
-                String file = "haikus/haiku.haiku";
+                String line1 = ("this is my haiku");
+                String line2 = ("seven syllable word oh");
+                String line3 = ("smooth brain coding hard");
+                String file = ("haikus/haiku.haiku");
 
                 Haiku haiku1 = new Haiku(line1,line2,line3);
 
@@ -76,7 +76,7 @@ public class Main {
             }
             System.out.println("Pick an option:");
             System.out.println("1. Trivia mode");
-            System.out.println("2.Authenticator")
+            System.out.println("2.Authenticator");
             System.out.println("3. Exit");
             System.out.print(": ");
             option = in.nextInt();

@@ -1,8 +1,6 @@
-import java.util.ArrayList;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.PrintWriter;
-import java.util.Scanner;
+package com.jetbrains;
+import java.io.*;
+import java.util.*;
 
 public class HaikuDeck {
     private ArrayList<Haiku> haikuDeck;

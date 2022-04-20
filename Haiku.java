@@ -1,9 +1,6 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Scanner;
-import java.io.File;
-import java.io.FileReader;
-import java.util.Random;
+package com.jetbrains;
+import java.io.*;
+import java.util.*;
 
 public class Haiku {
     private Haiku random;

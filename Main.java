@@ -55,7 +55,7 @@ public class Main {
                 //2
             }else if (option==2) {
                 String line1 = ("this is my haiku");
-                String line2 = ("seven syllable word oh");
+                String line2 = ("seven syllable word dog");
                 String line3 = ("smooth brain coding hard");
                 String file = ("haikus/haiku.haiku");
 
@@ -65,7 +65,7 @@ public class Main {
 
                 HaikuDeck deck = new HaikuDeck(file);
 
-                deck.printDeckSyll();
+//                deck.printDeckSyll();
 
                 haiku1.printSyll();
 //        Haiku random = haikuGen();

@@ -35,11 +35,22 @@ public class Main {
         frame.setSize(480, 480);
 
         //Button 1
-        JButton button = new JButton("Push Me!");
+        JButton button1 = new JButton("Trivia mode");
         frame.add(auth);
-        auth.add(button);
-        frame.add(trivia);
-        frame.add(random);
+        auth.add(button1);
+
+        //Button 2
+        JButton button2 = new JButton("Authenticator");
+        frame.add(auth);
+        auth.add(button2);
+
+        //Button 3
+        JButton button3 = new JButton("Exit");
+        frame.add(auth);
+        auth.add(button3);
+
+        //frame.add(trivia);
+        //frame.add(random);
 
 
         frame.setVisible(true);
@@ -54,7 +65,7 @@ public class Main {
         //Welcome Message
         System.out.println("Pick an option:");
         System.out.println("1. Trivia mode");
-        System.out.println("2.Authenticator");
+        System.out.println("2. Authenticator");
         System.out.println("3. Exit");
         System.out.print(": ");
         option = in.nextInt();
@@ -89,7 +100,7 @@ public class Main {
             }
             System.out.println("Pick an option:");
             System.out.println("1. Trivia mode");
-            System.out.println("2.Authenticator");
+            System.out.println("2. Authenticator");
             System.out.println("3. Exit");
             System.out.print(": ");
             option = in.nextInt();
